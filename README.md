@@ -47,12 +47,13 @@ Al-Sayegh and colleagues (2026), *Multi-omics integration reveals convergent ext
 
 ### Running the notebook
 
-1. Open the `.ipynb` file in [Google Colab](https://colab.research.google.com/) or a compatible Jupyter environment.
-2. Run the notebook cells in order.
-3. Allow the notebook to install or import its required dependencies and retrieve the expression matrix from the configured source.
-4. Review the generated PCA visualization, descriptive gene summaries, technical checks, and exported results.
+1. Open `NYUAD_Exploratory_Transcriptome_Reanalysis_of_mESC_Adipogenesis.ipynb` from this repository.
+2. Open the notebook in [Google Colab](https://colab.research.google.com/) or a compatible Jupyter environment.
+3. Run the notebook cells in order.
+4. Allow the notebook to install or import its required dependencies and retrieve the expression matrix from the configured source.
+5. Review the PCA visualization, descriptive gene summaries, technical checks, and exported results.
 
-The notebook contains the workflow and records its run configuration. Successful execution may depend on internet access, the continued availability of the configured data source, and compatible software dependencies.
+**Scope:** This is an exploratory transcriptome reanalysis. The gene-level comparisons are descriptive and should not be interpreted as formal differential-expression results or as a complete reproduction of the paper's multi-omics analysis.
 
 ## Limitations and Interpretation
 
